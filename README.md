@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Animesh 👋
 
-<!--
-**animeshmanna98/animeshmanna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Symlink developer with a knack for creating efficient and reliable solutions. I love exploring new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on React Native Project
+- 🌱 I’m learning more about python
+- 👯 I’m looking to collaborate on [Type of Projects You’re Interested In]
+- 💬 Ask me about [Your Expertise or Interests]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages:wordpress,php,laravel,codeingniter,react,angular,vue,nodejs,nextjs and react native
+- Frameworks: [List of Frameworks]
+  
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github.com/animeshmanna98/animeshmanna98)
+
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
