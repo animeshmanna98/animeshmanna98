@@ -5,12 +5,9 @@ I'm a passionate Symlink developer with a knack for creating efficient and relia
 ## 🚀 About Me
 - 🔭 I’m currently working on React Native Project
 - 🌱 I’m learning more about python
-- 👯 I’m looking to collaborate on [Type of Projects You’re Interested In]
-- 💬 Ask me about [Your Expertise or Interests]
 
 ## 🛠️ Technologies & Tools
-- Programming Languages:wordpress,php,laravel,codeingniter,react,angular,vue,nodejs,nextjs and react native
-- Frameworks: [List of Frameworks]
+- Skills :wordpress,php,laravel,codeingniter,react,angular,vue,nodejs,nextjs and react native
   
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github.com/animeshmanna98/animeshmanna98)
